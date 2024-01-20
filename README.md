@@ -1,4 +1,4 @@
-# Creativity-with-Excel
+# Extra Fun with Excel
 
 In my project, I applied advanced Excel techniques to dissect a large-scale dataset on Udemy courses, encompassing 44,000 records. The focus of this analysis was on leveraging Microsoft Excel's powerful features to extract meaningful insights and address business challenges. Through the proficient use of dynamic dashboards, pivot tables, and charts, I crafted a comprehensive analytical framework that enabled me to distill complex data into concise and informative summaries.
 
